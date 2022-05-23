@@ -1,0 +1,20 @@
+FOR A=0 TO 10 STEP 2
+PRINT A
+NEXT A
+IF (0=0) Then end
+end:A=0
+NUM$(4.5)
+NUM$(4)
+MID$("HELLO", 2, 3)
+VAL%("3.14")
+VAL("10")
+RIGHT$("goodbye",5)
+LEFT$("hello",2)
+RANDOM()
+PRINT 3+2, "hello"
+INPUT Input 2 values,abc,lancaster
+DATA 1,2,3,4
+READ a,b,c,d
+PRINT 2*6,3+1,4-5
+PRINT "hi"
+a=1+2
